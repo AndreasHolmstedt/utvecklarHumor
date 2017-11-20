@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    background-color: hotpink;
+}
+
+#question{
+    margin-top: 3em;
+    font-size: 2em;
+}
+#answer{
+    padding: 2em;
+    padding-bottom: 4em;
+    font-size: 2em;
+}
+
+#newJoke{
+    margin-top: 2em;
+    position: relative;
+    font-size: 2em;
+    display: inline;
+    background-color: aqua;
+    text-align: center;
+    padding: 1em;
+    border-radius: 7px;
+    border: 2px solid black;
+}
+
+#newJoke:hover{
+    background-color: greenyellow;
+    cursor: pointer;
+}
